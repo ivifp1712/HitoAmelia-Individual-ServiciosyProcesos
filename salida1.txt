@@ -1,0 +1,33 @@
+Se ha producido el examen E1-2022
+Se ha producido el examen E2-2022
+Se ha producido el examen E3-2022
+E2-2022;Alumno2;Pregunta 1;A
+E2-2022;Alumno2;Pregunta 2;A
+E2-2022;Alumno2;Pregunta 3;B
+E3-2022;Alumno3;Pregunta 1;C
+E2-2022;Alumno2;Pregunta 4;A
+E1-2022;Alumno1;Pregunta 1;-
+E2-2022;Alumno2;Pregunta 5;D
+E3-2022;Alumno3;Pregunta 2;-
+E2-2022;Alumno2;Pregunta 6;A
+E1-2022;Alumno1;Pregunta 2;C
+E2-2022;Alumno2;Pregunta 7;B
+E3-2022;Alumno3;Pregunta 3;D
+E2-2022;Alumno2;Pregunta 8;A
+E1-2022;Alumno1;Pregunta 3;D
+E2-2022;Alumno2;Pregunta 9;C
+E3-2022;Alumno3;Pregunta 4;C
+E2-2022;Alumno2;Pregunta 10;-
+E1-2022;Alumno1;Pregunta 4;C
+E3-2022;Alumno3;Pregunta 5;A
+E1-2022;Alumno1;Pregunta 5;D
+E3-2022;Alumno3;Pregunta 6;A
+E1-2022;Alumno1;Pregunta 6;A
+E3-2022;Alumno3;Pregunta 7;C
+E1-2022;Alumno1;Pregunta 7;A
+E3-2022;Alumno3;Pregunta 8;A
+E1-2022;Alumno1;Pregunta 8;A
+E3-2022;Alumno3;Pregunta 9;A
+E1-2022;Alumno1;Pregunta 9;D
+E3-2022;Alumno3;Pregunta 10;A
+E1-2022;Alumno1;Pregunta 10;C
