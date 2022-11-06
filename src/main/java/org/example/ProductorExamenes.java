@@ -9,14 +9,11 @@ public class ProductorExamenes implements Runnable {
     private Thread hilo;
 
     public ProductorExamenes(BufferExamenes buffer) {
-        // Incrementa el contador de exámenes (variable numeroExamen).
         this.numeroExamen++;
         // Construye el hilo. El nombre será la letra E seguida
         // del valor de la variable numeroExamen.
         this.hilo = new Thread(this, "E" + numeroExamen);
-        // Establece el valor de la propiedad buffer
         this.buffer = buffer;
-        // Inicia el hilo.
         hilo.start();
     }
 

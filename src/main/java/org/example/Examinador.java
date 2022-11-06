@@ -11,11 +11,8 @@ public class Examinador implements Runnable {
     }
 
     public Examinador(String alumno, BufferExamenes generador) {
-        // Construye el hilo. El nombre será el nombre del alumno.
         this.hilo = new Thread(this, alumno);
-        // Establece el valor de la propiedad buffer
         this.buffer = generador;
-        // Inicia el hilo.
         hilo.start();
 
     }
@@ -24,7 +21,6 @@ public class Examinador implements Runnable {
     public void run() {
         String codigoExamen = this.buffer.consumirExamen();
         if (codigoExamen != null) {
-            // Crear arraylist respuestas y rellenarlo con las respuestas A, B, C, D o – (sin contestar).
             ArrayList<String> respuestas = new ArrayList<>();
             respuestas.add("A");
             respuestas.add("B");
