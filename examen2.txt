@@ -1,0 +1,33 @@
+Se ha producido el examen E1-2022
+Se ha producido el examen E3-2022
+Se ha producido el examen E2-2022
+E1-2022;Rosa;Pregunta 1;C
+E3-2022;Miguel;Pregunta 1;D
+E2-2022;Pedro;Pregunta 1;D
+E3-2022;Miguel;Pregunta 2;A
+E1-2022;Rosa;Pregunta 2;A
+E3-2022;Miguel;Pregunta 3;D
+E2-2022;Pedro;Pregunta 2;A
+E3-2022;Miguel;Pregunta 4;-
+E1-2022;Rosa;Pregunta 3;B
+E3-2022;Miguel;Pregunta 5;B
+E2-2022;Pedro;Pregunta 3;C
+E3-2022;Miguel;Pregunta 6;C
+E1-2022;Rosa;Pregunta 4;B
+E3-2022;Miguel;Pregunta 7;D
+E2-2022;Pedro;Pregunta 4;C
+E3-2022;Miguel;Pregunta 8;B
+E1-2022;Rosa;Pregunta 5;-
+E3-2022;Miguel;Pregunta 9;B
+E2-2022;Pedro;Pregunta 5;B
+E3-2022;Miguel;Pregunta 10;C
+E1-2022;Rosa;Pregunta 6;-
+E2-2022;Pedro;Pregunta 6;A
+E1-2022;Rosa;Pregunta 7;D
+E2-2022;Pedro;Pregunta 7;C
+E1-2022;Rosa;Pregunta 8;C
+E2-2022;Pedro;Pregunta 8;A
+E1-2022;Rosa;Pregunta 9;C
+E2-2022;Pedro;Pregunta 9;A
+E1-2022;Rosa;Pregunta 10;D
+E2-2022;Pedro;Pregunta 10;A
